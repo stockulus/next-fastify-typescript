@@ -1,0 +1,12 @@
+.git/*
+.next/*
+.dist/*
+dist/*
+docs/*
+node_modules/*
+.dockerignore
+.gitignore
+app.yaml
+Dockerfile
+docker-compose.yml
+README.md
